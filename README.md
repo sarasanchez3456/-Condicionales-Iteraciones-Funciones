@@ -19,10 +19,10 @@ Este repositorio contiene las soluciones a los retos prácticos de programación
 El código fuente está organizado en la carpeta `src/`, separando cada reto según su temática:
 ```text
 ├── src/
-│   ├── funciones/
-│   │   └── reto1.py
 │   ├── condicionales/
 │   │   └── reto2.py
+│   ├── funciones/
+│   │   └── reto1.py
 │   └── iterativas/
 │       └── reto3.py
 └── README.md
